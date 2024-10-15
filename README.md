@@ -118,8 +118,14 @@ You can only select a supported language, preventing user mistakes.
 ### Components created or changed
 
 Language selector - To help select a language
+
+
 Language context - to manage the global language selection
+
+
 Translation Manager - to manage the translation process, finding the corresponding elements that need to be translated, and fetching the relevant translations.
+
+
 InputTag - made changes to address a bug where the input text was not translated
 
 ### Known Bugs and Future Improvements
