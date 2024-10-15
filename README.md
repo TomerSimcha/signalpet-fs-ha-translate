@@ -78,7 +78,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ### Frontend Setup
 
-Navigate to Frontend Directory: cd signalpet-fs-ha-translate
+cd signalpet-fs-ha-translate
 npm install
 npm start
 
@@ -87,6 +87,7 @@ npm start
 Clone LibreTranslate Repository:
 git clone https://github.com/LibreTranslate/LibreTranslate.git
 cd LibreTranslate
+make sure you are running at port 5000
 ./run.sh --load-only en,es,de,pt,fr --port 5000
 
 
