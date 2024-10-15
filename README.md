@@ -35,7 +35,6 @@
 
 ### Technology Decisions
 
-- **ReactJS with TypeScript:** Chosen for its strong typing system and scalability, ensuring maintainable and robust code.
 - **Node.js and Express:** Selected for their lightweight and efficient handling of HTTP requests, making them ideal for creating a translation server.
 
 ---
